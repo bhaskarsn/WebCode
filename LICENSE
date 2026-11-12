@@ -1,8 +1,28 @@
+WebCode
 Copyright © 2026 Bhaskar Kumar. All rights reserved.
 
-This software is provided for personal use only.
-Redistribution, copying, modification, or commercial use
-of this software or its source code is strictly prohibited
-without prior written permission from the author.
+1. Use of the hosted app
+Anyone may use WebCode through the official hosted website at
+https://bhaskarsn.github.io/WebCode/ , free of charge, for personal,
+non-commercial purposes. Loading the app in a browser, including the
+temporary copies your browser and device make in order to run it and
+work offline, is permitted.
+
+2. Restrictions
+Except as stated above, you may not, without prior written permission
+from the author: copy or redistribute the software or its source code;
+modify it or create derivative works; host your own copy or mirror;
+sell, sublicense or use it commercially as a product or service; or
+remove this notice.
+
+3. Third-party components
+WebCode includes open-source components that remain under their own
+licenses, listed in THIRD-PARTY-NOTICES.txt. Nothing here restricts
+your rights under those licenses.
+
+4. No warranty
+The software is provided "as is", without warranty of any kind. The
+author is not liable for any loss, including loss of data. Files are
+stored only in your own browser, so keep your own backups.
 
 Contact: bhaskarkumar787878@gmail.com

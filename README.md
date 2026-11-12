@@ -1,13 +1,35 @@
-## Features
-- Editor: ~40 languages (loaded on demand), find/replace (regex, case, word), multi-cursor, column select, folding,
-  bracket matching/auto-close, autocomplete (words + snippets, Emmet for HTML/CSS), minimap, Vim mode,
-  whitespace display, line tools (sort, join, trim, case, duplicate/delete line), go to line / symbol.
-- Workspace: virtual filesystem, explorer, tabs, split panes, quick open (Ctrl/Cmd+P), command palette
-  (Ctrl/Cmd+Shift+P), search and replace across all files, session restore, drag and drop upload.
-- Archives: extract zip / tar / tar.gz, download any folder as .zip or .tar.gz (runs in a Web Worker).
-- Tools: diff / compare two files, local file history with restore, live preview for HTML (with console),
-  Markdown, SVG, JSON, images and PDF.
-- Touch: key row (Tab, arrows, brackets, symbols) and mobile-friendly input settings.
+# WebCode
 
-## Shortcuts
-Ctrl/Cmd: S save, P quick open, Shift+P commands, Shift+F search files, Shift+O symbols, B sidebar, \ split.
+A free code editor that runs entirely in your browser.
+No account, no server: your files stay on your device.
+
+**Use it here:** https://bhaskarsn.github.io/WebCode/
+
+On iPad or iPhone: Share > Add to Home Screen.
+On Chrome or Edge: use the install icon in the address bar.
+
+## What you can do
+
+- Edit code with syntax highlighting for about 40 languages
+- Find and replace in a file or across all files, with regex
+- Multi-cursor, code folding, autocomplete and snippets
+- Split the editor, quick open files, and use the command palette
+- Preview HTML, Markdown, SVG, JSON, images and PDF
+- Compare files and restore earlier saved versions
+- Upload zip, tar and tar.gz archives, edit the project, then
+  download any folder as .zip or .tar.gz
+- Works offline after the first visit
+
+## Your files
+
+Files are stored only in your browser, on your device. WebCode does
+not upload them anywhere. Clearing your browser's site data deletes
+them, so download a backup of anything important.
+
+## License
+
+Free to use for personal, non-commercial purposes through the hosted
+site above. See LICENSE. Third-party components are listed in
+THIRD-PARTY-NOTICES.txt.
+
+Contact: bhaskarkumar787878@gmail.com
